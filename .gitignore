@@ -1,0 +1,7 @@
+.env.prod.db
+.env.dev
+.env.prod
+*.pyc
+__pycache
+__pycache__
+.DS_Store
