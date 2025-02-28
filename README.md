@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains a simple Flask web service running on Docker, using Postgres, Gunicorn, and Nginx. The project follows the tutorial from TestDriven.io and allows users to upload and view images and other media files.
+This repository contains a simple Flask web service running on Docker, using Postgres to handle data storage, Gunicorn for the WSGI server, Flask as a framework used to handle HTTP requests and responses,and Nginx serves as a reverse proxy server. The project follows the tutorial from TestDriven.io and allows users to upload and view images and other media files.
 
-Below is an animated GIF showing the image upload process:
+Below is a GIF showing the image upload process:
 
 ![ezgif-8420e452f9f16a](https://github.com/user-attachments/assets/2c10eda0-f363-4808-a488-4918b5769856)
 
